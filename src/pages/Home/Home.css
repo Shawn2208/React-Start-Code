@@ -1,0 +1,29 @@
+.home-container {
+  padding: 20px;
+  text-align: center;
+}
+
+.home-container h1 {
+  color: #007bff;
+}
+
+.features {
+  margin-top: 20px;
+}
+
+.features ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.features li {
+  margin-bottom: 10px;
+  font-size: 1.1em;
+}
+
+.call-to-action {
+  margin-top: 30px;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+  

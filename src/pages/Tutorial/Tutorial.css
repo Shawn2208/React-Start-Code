@@ -1,0 +1,16 @@
+.tutorial-container {
+  padding: 20px;
+  max-width: 800px;
+  margin: auto;
+}
+
+.tutorial-container h1, h2 {
+  color: #007bff;
+}
+
+.tutorial-container p {
+  line-height: 1.6;
+}
+  
+  /* Additional styling for code snippets, interactive elements */
+  

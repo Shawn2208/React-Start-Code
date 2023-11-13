@@ -1,0 +1,19 @@
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #333;
+}
+.header {
+  background-color: #f3f3f3;
+  padding: 10px 20px;
+  text-align: center;
+}
